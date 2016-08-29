@@ -1,0 +1,2 @@
+INTELFOUND = INTELFOUND + 1;
+publicVariable "INTELFOUND";
